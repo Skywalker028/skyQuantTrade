@@ -3,4 +3,4 @@
 量化交易
 前后端分离
 fastapi vue
-
+vue 3.0

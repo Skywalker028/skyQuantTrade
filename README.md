@@ -5,6 +5,4 @@
 fastapi vue
 vue 3.
 vueq
-v
-u
-e
+vue

@@ -4,5 +4,4 @@
 前后端分离
 fastapi vue
 vue 3.
-vueq
-vue vvv
+vue

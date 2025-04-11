@@ -6,6 +6,3 @@ fastapi vue
 vue 3.
 vue
 
-eee
-eeee
-444

@@ -6,3 +6,4 @@ fastapi vue
 vue 3.
 vue
 
+eee
